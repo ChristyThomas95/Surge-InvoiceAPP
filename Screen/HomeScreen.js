@@ -1,16 +1,22 @@
 import { StyleSheet, Text, View, TouchableOpacity, Image } from 'react-native'
 import React from 'react'
 
-export default function HomeScreen() {
+export default function HomeScreen({navigation}) {
   return (
     <View style={styles.container}>
       <Image 
       style={{
-        width:600,
-        height:300
+        width:300,
+        height:110,
+        marginLeft:85,
+        
       }}
       source={require('../assets/logo.png')}/>
-       <TouchableOpacity style={styles.button}>
+       <TouchableOpacity 
+       onPress={
+        () => navigation.navigate('CreateBill')
+       }
+       style={styles.button}>
             <Text>Create Invoice</Text>
        </TouchableOpacity>
     </View>
