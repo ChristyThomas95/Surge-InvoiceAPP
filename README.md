@@ -1,4 +1,4 @@
-<h1 align="center"> SurgeInvocieApp </h1> <br>
+<h1 align="center"> SurgeInvoiceApp </h1> <br>
 <p align="center">
   <a href="#">
     <img alt=SurgeApp" title="SurgeApp" src="https://i.ibb.co/B4gfkXH/logo.png" width="450">
