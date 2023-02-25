@@ -45,8 +45,7 @@ A few of the things you can do with GitPoint:
 
 <p align="center">
   <img src = "https://i.ibb.co/yNQyZRN/Screenshot-20230225-090839-Expo-Go.jpg" width=300 height=450>
-  <img src = "https://i.ibb.co/xD3Z3bZ/Screenshot-20230225-090846-Expo-Go.jpg" width=300 height=450>                                                                            
-                                                                              
+  <img src = "https://i.ibb.co/xD3Z3bZ/Screenshot-20230225-090846-Expo-Go.jpg" width=300 height=450>                                                                                                                                            
 </p>
 
 ## Build Process
@@ -58,6 +57,14 @@ A few of the things you can do with GitPoint:
 - `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
 - `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
 
+## OutPut
+<p align="center">
+
+  <img src = "https://i.ibb.co/xskf6WT/Invoice-page-0001.jpg" width=400 height=550>     
+</p>                                                                              
+                                                                              
+                                                                              
+                                                                              
 ## Feedback
 
 Feel free to send me the feedback.
